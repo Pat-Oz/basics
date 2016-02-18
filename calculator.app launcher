@@ -1,0 +1,5 @@
+#THIS PROGRAM LAUNCHES THE CALCULATOR APPLICATION ON MAC OS X
+
+import subprocess
+CalculatorDir = "/Applications/Calculator.app"
+subprocess.call(['open', CalculatorDir])
