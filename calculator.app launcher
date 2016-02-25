@@ -1,5 +1,6 @@
-#THIS PROGRAM LAUNCHES THE CALCULATOR APPLICATION ON MAC OS X
-#this is to see how version control works
+# Calculator.app Launcher
+# THIS PROGRAM LAUNCHES THE CALCULATOR APPLICATION ON MAC OS X
+
 import subprocess
 CalculatorDir = "/Applications/Calculator.app"
 subprocess.call(['open', CalculatorDir])
