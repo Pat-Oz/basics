@@ -1,4 +1,3 @@
-# Calculator.app Launcher
 # THIS PROGRAM LAUNCHES THE CALCULATOR APPLICATION ON MAC OS X
 
 import subprocess
